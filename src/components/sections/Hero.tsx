@@ -9,7 +9,7 @@ export function Hero() {
           </h1>
 
           <p className="body-lg fade-up d2" style={{ marginBottom: 14, maxWidth: 520 }}>
-            Para profissionais liberais, freelancers, coaches e autônomos que perdem clientes por não saber o que dizer nos momentos críticos.
+            Para profissionais liberais, freelancers, empreendedores, mentores e autônomos que perdem clientes por não saber o que dizer nos momentos críticos.
           </p>
 
           <div className="vsl-wrap fade-up d2" role="region" aria-label="Vídeo de apresentação do CloserOS™">

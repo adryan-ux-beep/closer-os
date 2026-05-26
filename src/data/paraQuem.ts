@@ -21,15 +21,15 @@ export const paraQuem: ParaQuemCard[] = [
   },
   {
     id: 'q4',
-    titulo: 'Coaches e Personal Trainers',
+    titulo: 'Nutricionistas e Personal Trainers',
     descricao: 'As pessoas adoram quando você fala do seu trabalho. Mas na hora de fechar, elas dizem "vou pensar" e somem.',
     icon: 'zap',
   },
   {
     id: 'q5',
-    titulo: 'Autônomos e Prestadores',
+    titulo: 'Autônomos e Profissionais Liberais',
     descricao: 'Você consegue clientes por indicação — mas quando precisa abordar alguém ou negociar um contrato, trava. Não sabe por onde começar.',
-    icon: 'wrench',
+    icon: 'star',
   },
   {
     id: 'q6',

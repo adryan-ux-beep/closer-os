@@ -4,7 +4,7 @@ export function FinalCta() {
       <div className="container">
         <div className="final-cta-card fade-up">
           <p className="cta-quote">
-            "A próxima vez que um cliente disser 'tá caro' ou 'vou pensar', você vai saber exatamente o que fazer."
+            A próxima vez que um cliente disser 'tá caro' ou 'vou pensar', você vai saber exatamente o que fazer.
           </p>
           <p className="cta-sub">
             Você não precisa mais improvisar. Não precisa mais torcer para que o cliente aceite. Não precisa mais perder vendas por não saber o que dizer no momento certo.<br /><br />

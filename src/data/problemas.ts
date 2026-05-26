@@ -14,11 +14,11 @@ export const problemas: Problema[] = [
   {
     id: 'p3',
     titulo: 'Você manda a proposta e não recebe resposta.',
-    descricao: 'O silêncio te paralisa.',
+    descricao: 'O silêncio te paralisa. A ansiedade toma conta.',
   },
   {
     id: 'p4',
     titulo: 'Como cobrar o que você vale sem travar.',
-    descricao: 'Você aceita menos porque não sabe como defender seu preço.',
+    descricao: 'Você aceita menos porque não sabe como mostrar seu valor.',
   },
 ]

@@ -28,10 +28,11 @@ export function Autoridade() {
           </div>
           <div className="autor-img-col fade-up d2">
             <div className="autor-img-placeholder">
-              <svg viewBox="0 0 24 24" fill="none" stroke="#9a958e" strokeWidth="1.2">
-                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
-                <circle cx="12" cy="7" r="4"/>
-              </svg>
+              <img
+                src="/images/gui.webp"
+                alt="Guilherme Dias Gattaz, especialista em vendas consultivas"
+                style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center top', display: 'block' }}
+              />
             </div>
             <div className="autor-stats-bar">
               <div className="autor-stat">

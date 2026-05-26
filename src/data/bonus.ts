@@ -15,7 +15,7 @@ export const bonusItems: BonusItem[] = [
   },
   {
     id: 'b3',
-    nome: 'Como Usar Seu Tom de Voz Para Persuadir e Construir Confiança',
+    nome: 'Como Gerar Autoridade e Confiança Logo no Primeiro Contato',
     valor: 'R$97',
     tipo: 'bonus',
   },

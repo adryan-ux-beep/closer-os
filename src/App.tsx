@@ -27,12 +27,7 @@ export default function App() {
 
   return (
     <>
-      <DotPattern
-        width={22}
-        height={22}
-        cr={1}
-        className="fixed text-neutral-400/40"
-      />
+      {/* DotPattern desativado — fundo branco limpo */}
       <a
         href="#main"
         style={{
