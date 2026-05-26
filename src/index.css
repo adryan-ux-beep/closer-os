@@ -957,6 +957,8 @@ footer {
   section { padding: 64px 0; }
   .vantagem-card { grid-template-columns: 1fr; }
   .cta-quote { font-size: 28px; }
+  #final-cta { padding: 48px 0; }
+  .final-cta-card { padding: 40px 24px; border-radius: 16px; }
   /* Quebras de linha só para desktop: ocultar no mobile */
   .br-desktop { display: none; }
   /* Exemplos: reduzir fonte de 80px para o padrão .h2 no mobile */
