@@ -23,7 +23,7 @@ export interface ParaQuemCard {
   id: string
   titulo: string
   descricao: string
-  icon: 'briefcase' | 'heart' | 'pen-tool' | 'zap' | 'wrench' | 'users'
+  icon: 'briefcase' | 'heart' | 'pen-tool' | 'zap' | 'wrench' | 'star' | 'users'
 }
 
 export interface BonusItem {

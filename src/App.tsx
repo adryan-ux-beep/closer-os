@@ -2,7 +2,6 @@ import { useEffect } from 'react'
 import { Navbar } from './components/layout/Navbar'
 import { Footer } from './components/layout/Footer'
 import { StickyCTA } from './components/layout/StickyCTA'
-import { DotPattern } from './components/ui/DotPattern'
 import {
   Hero, Problema, ComoFunciona, Exemplos,
   ParaQuem, Autoridade, Oferta, Faq, FinalCta
